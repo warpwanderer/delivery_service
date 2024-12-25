@@ -1,0 +1,28 @@
+# Python-related
+*.pyc
+*.pyo
+__pycache__/
+*.log
+
+# Virtual environment
+venv/
+.env/
+
+# Database files
+*.db
+#data/
+
+# Docker-related
+*.env
+*.pid
+build/
+*.tar
+*.bak
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+
+# Other
+.DS_Store
